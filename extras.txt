@@ -1,0 +1,21 @@
+This project is authored by
+
+1. Sidhartha Das
+
+Contact details: sidhartha15105@gmail.com
+
+This project involves learning injection prompting, along with discovering common flaws to breakthrough the model
+Credits go out to the following people for their knowledge
+
+1. David Willis-Owen
+2. David M 
+3. https://www.injectprompt.com/t/jailbreaks
+4. Jojomaw
+
+I'd like to also thank all my teachers for additional help wherever required. 
+
+All the files are broken down using Severity parameters and named accordingly
+Descriptions are written accordingly for every flaw - some happen to be incorrect answers, some are malicious intents.
+Additionally, all our potential jailbreaks have been added as a separate file.
+
+Thank You for evaluating our project! 
